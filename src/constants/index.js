@@ -29,10 +29,10 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 15, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 108, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 3, suffix: "+", label: "Years of Experience" },
+  { value: 20, suffix: "+", label: "Projects Completed" },
+  { value: 15, suffix: "+", label: "Happy Clients" },
+  { value: 95, suffix: "%", label: "Success Rate" },
 ];
 
 const logoIconsList = [
@@ -147,15 +147,15 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review: "Sarvesh demonstrated exceptional skills in developing responsive and interactive web applications. His attention to detail and problem-solving abilities significantly improved our project outcomes.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Web Developer",
+    date: "2021 - Present",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "Developed and maintained responsive web applications using modern technologies.",
+      "Collaborated with clients to understand requirements and deliver tailored solutions.",
+      "Optimized applications for maximum speed and cross-browser compatibility.",
     ],
   },
   {
